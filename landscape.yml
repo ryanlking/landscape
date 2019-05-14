@@ -1665,12 +1665,6 @@ landscape:
             logo: vitess.svg
             twitter: 'https://twitter.com/vitessio'
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
-          - item:
-            name: YugaByte DB
-            homepage_url: 'https://www.yugabyte.com/community-edition/'
-            repo_url: 'https://github.com/YugaByte/yugabyte-db'
-            logo: yugabyte.svg
-            crunchbase: 'https://www.crunchbase.com/organization/yugabyte'
       - subcategory:
         name: Streaming & Messaging
         items:
